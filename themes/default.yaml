@@ -1,0 +1,13 @@
+plotly_template: "plotly_white"
+color_palette:
+  - "#3B82F6"  # Blue
+  - "#10B981"  # Green
+  - "#6366F1"  # Indigo
+  - "#F59E0B"  # Amber
+  - "#EC4899"  # Pink
+font_family: "Inter, -apple-system, system-ui, sans-serif"
+background_color: "#ffffff"
+paper_color: "#ffffff"
+text_color: "#1f2937"
+grid_color: "rgba(0, 0, 0, 0.1)"
+line_color: "rgba(0, 0, 0, 0.2)" 

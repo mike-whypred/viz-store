@@ -1,0 +1,13 @@
+plotly_template: "plotly_dark"
+color_palette:
+  - "#60A5FA"
+  - "#34D399"
+  - "#818CF8"
+  - "#FBBF24"
+  - "#F472B6"
+font_family: "Inter, -apple-system, system-ui, sans-serif"
+background_color: "#1f2937"
+paper_color: "#1f2937"
+text_color: "#F3F4F6"
+grid_color: "rgba(255, 255, 255, 0.1)"
+line_color: "rgba(255, 255, 255, 0.2)" 
